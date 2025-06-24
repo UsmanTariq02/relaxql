@@ -13,5 +13,13 @@
   "dependencies": {
     "sequelize": "^6.32.1",
     "sqlite3": "^5.1.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UsmanTariq02/relaxql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/UsmanTariq02/relaxql/issues"
+  },
+  "homepage": "https://github.com/UsmanTariq02/relaxql#readme"
 }
