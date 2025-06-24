@@ -1,0 +1,17 @@
+{
+  "name": "@usmantariqdev/relaxql",
+  "version": "0.1.0",
+  "description": "Auto-generate and manage Sequelize relationships with ease",
+  "main": "src/index.js",
+  "type": "module",
+  "keywords": ["sequelize", "relations", "auto", "orm", "associations"],
+  "author": "Muhammad Usman",
+  "license": "MIT",
+  "scripts": {
+    "start": "node examples/basic.js"
+  },
+  "dependencies": {
+    "sequelize": "^6.32.1",
+    "sqlite3": "^5.1.6"
+  }
+}
