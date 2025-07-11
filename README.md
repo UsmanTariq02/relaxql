@@ -28,4 +28,4 @@ Instead of writing repetitive association code on both sides, you define just on
 ## Installation
 
 ```bash
-npm install sequelize sqlite3
+npm i @usmantariqdev/relaxql
